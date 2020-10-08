@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saurabh2836@gmail.com**
 
-- ⚡ Fun fact **I super passionate about Financial Freedom**
+- ⚡ Fun fact **super passionate about Financial Freedom**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
