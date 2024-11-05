@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh2836" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh2836?logo=twitter&style=for-the-badge" alt="saurabh2836" /></a> </p>
 
-- 🌱 I’m currently learning **Deno and React**
+- 🌱 I’m currently learning **Solidity, Web3 ,Solana**
 
 - 📝 I regulary write articles on [https://dev.to/saurabh2836](https://dev.to/saurabh2836)
 
